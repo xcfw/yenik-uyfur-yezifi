@@ -73,22 +73,34 @@
 
 YUY:
 > Hélimu djansizfa oxwaydu téning,
+>
 > Wunga yoqmu ance ölümdin féming?
+>
 > Caqirsam qimirlimayla yatisen,
+>
 > Oyfanmay ölmekcimu sen wu péting?
 > 
 > Közüngni yofan écip etrapqa baq,
+>
 > Öz istiqbaling heqqide oylan uzaq.
+>
 > Ketse qoldin bu fenimet, pursiti,
+>
 > Kilecek iwing cataq, iwing cataq.
 
 ULY v5:
 > Hélimu jansizgha oxshaydu téning,
+>
 > Shunga yoqmu anche ölümdin ghéming?
+>
 > Chaqirsam qimirlimayla yatisen,
+>
 > Oyghanmay ölmekchimu sen shu péting?
 > 
 > Közüngni yoghan échip etrapqa baq,
+>
 > Öz istiqbaling heqqide oylan uzaq.
+>
 > Ketse qoldin bu ghenimet, pursiti,
+>
 > Kilechek ishing chataq, ishing chataq.
