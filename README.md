@@ -71,24 +71,14 @@
 | dön'gen       | dön'gen     |
 | tungfuc       | tung'ghuch  |
 
-YUY:
-> Hélimu djansizfa oxwaydu téning,
-Wunga yoqmu ance ölümdin féming?
-Caqirsam qimirlimayla yatisen,
-Oyfanmay ölmekcimu sen wu péting?
-> 
-> Közüngni yofan écip etrapqa baq,
-Öz istiqbaling heqqide oylan uzaq.
-Ketse qoldin bu fenimet, pursiti,
-Kilecek iwing cataq, iwing cataq.
-
-ULY v5:
-> Hélimu jansizgha oxshaydu téning,
-Shunga yoqmu anche ölümdin ghéming?
-Chaqirsam qimirlimayla yatisen,
-Oyghanmay ölmekchimu sen shu péting?
-> 
-> Közüngni yoghan échip etrapqa baq,
-Öz istiqbaling heqqide oylan uzaq.
-Ketse qoldin bu ghenimet, pursiti,
-Kilechek ishing chataq, ishing chataq.
+|              YUY                   |                 ULY v5                 |
+|------------------------------------|----------------------------------------|
+| Hélimu djansizfa oxwaydu téning,   | Hélimu jansizgha oxshaydu téning,      |
+| Wunga yoqmu ance ölümdin féming?   | Shunga yoqmu anche ölümdin ghéming?    |
+| Caqirsam qimirlimayla yatisen,     | Chaqirsam qimirlimayla yatisen,        |
+| Oyfanmay ölmekcimu sen wu péting?  | Oyghanmay ölmekchimu sen shu péting?   |
+| ...                                | ... 
+| Közüngni yofan écip etrapqa baq,   | Közüngni yoghan échip etrapqa baq,     |
+| Öz istiqbaling heqqide oylan uzaq. | Öz istiqbaling heqqide oylan uzaq.     |
+| Ketse qoldin bu fenimet, pursiti,  | Ketse qoldin bu ghenimet, pursiti,     |
+| Kilecek iwing cataq, iwing cataq.  | Kilechek ishing chataq, ishing chataq. |
