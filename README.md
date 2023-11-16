@@ -51,3 +51,42 @@
 | 31     | ئى‎ | Ii   | Ии  | Ii    | /i/ ~ / ɪ/ | Ii   |
 | 32     | ي‎  | Yy   | Йй  | Yy    | / j /      | Yy   |
 
+=======
+## Words and text samples
+
+| cicek         | chichek     |
+| ravab         | rawab       |
+| weher         | sheher      |
+| zendjir       | zenjir      |
+| djeren        | jeren       |
+| fenimet       | ghenimet    |
+| faz           | ghaz        |
+| jürek         | zhürek      |
+| phayl         | fayl        |
+| kompyutér     | kompyutér   |
+| phizik        | fizik       |
+| orphographiya | orfografiya |
+| dön'gen       | dön'gen     |
+|  tungfuc      | tung'ghuch  |
+
+YUY:
+> Hélimu djansizfa oxwaydu téning,
+> Wunga yoqmu ance ölümdin féming?
+> Caqirsam qimirlimayla yatisen,
+> Oyfanmay ölmekcimu sen wu péting?
+> 
+> Közüngni yofan écip etrapqa baq,
+> Öz istiqbaling heqqide oylan uzaq.
+> Ketse qoldin bu fenimet, pursiti,
+> Kilecek iwing cataq, iwing cataq.
+
+ULY v5:
+> Hélimu jansizgha oxshaydu téning,
+> Shunga yoqmu anche ölümdin ghéming?
+> Chaqirsam qimirlimayla yatisen,
+> Oyghanmay ölmekchimu sen shu péting?
+> 
+> Közüngni yoghan échip etrapqa baq,
+> Öz istiqbaling heqqide oylan uzaq.
+> Ketse qoldin bu ghenimet, pursiti,
+> Kilechek ishing chataq, ishing chataq.
