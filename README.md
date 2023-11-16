@@ -54,6 +54,8 @@
 =======
 ## Words and text samples
 
+| YUY           | ULY v5      |
+|---------------|-------------|
 | cicek         | chichek     |
 | ravab         | rawab       |
 | weher         | sheher      |
@@ -67,7 +69,7 @@
 | phizik        | fizik       |
 | orphographiya | orfografiya |
 | dön'gen       | dön'gen     |
-|  tungfuc      | tung'ghuch  |
+| tungfuc       | tung'ghuch  |
 
 YUY:
 > Hélimu djansizfa oxwaydu téning,
